@@ -91,7 +91,7 @@
 89,90,strawberry,Netherlands,14.87,cheap
 90,91,chocolate,Romania,7.02,medium
 91,92,strawberry,Greece,21.2,medium
-92,93,strawberry,France,15.55,cheap
+92,93,strawberry,France,0.12,cheap
 93,94,vanilla,Switzerland,19.48,cheap
 94,95,pistachio,Italy,20.39,expensive
 95,96,vanilla,Italy,22.8,expensive
@@ -174,7 +174,7 @@
 172,173,pistachio,Spain,22.01,cheap
 173,174,peanuts,Austria,6.38,cheap
 174,175,vanilla,Switzerland,5.48,medium
-175,176,vanilla,Sweden,18.28,medium
+175,176,vanilla,Sweden,88.7,medium
 176,177,caramel,Romania,11.25,cheap
 177,178,pistachio,Switzerland,4.74,expensive
 178,179,chocolate,Spain,23.38,cheap
@@ -234,7 +234,7 @@
 232,233,chocolate,Spain,13.04,cheap
 233,234,peanuts,Italy,11.37,medium
 234,235,peanuts,Netherlands,4.57,medium
-235,236,pistachio,Switzerland,19.82,expensive
+235,236,pistachio,Switzerland,0.05,expensive
 236,237,caramel,Sweden,8.37,medium
 237,238,chocolate,Spain,24.62,expensive
 238,239,pistachio,Netherlands,25.49,medium
@@ -849,7 +849,7 @@
 847,848,pistachio,Austria,6.6,expensive
 848,849,pistachio,Switzerland,17.69,cheap
 849,850,chocolate,Austria,16.23,cheap
-850,851,pistachio,France,17.29,medium
+850,851,pistachio,France,95.1,medium
 851,852,peanuts,Italy,5.52,expensive
 852,853,strawberry,Austria,22.17,cheap
 853,854,vanilla,Romania,12.74,cheap
