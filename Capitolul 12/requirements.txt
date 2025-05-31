@@ -1,0 +1,7 @@
+mlflow
+pandas
+numpy
+tqdm
+sentence_transformers
+scikit-learn
+torch
